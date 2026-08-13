@@ -37,6 +37,15 @@ a {
   padding: 36px 24px 80px;
 }
 
+.credit {
+  margin: 0 0 18px;
+  font-family: var(--data);
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--brick);
+}
+
 .mast {
   border-bottom: 3px solid var(--lake);
   padding-bottom: 28px;

@@ -103,6 +103,7 @@ export default function App() {
 
   return (
     <div className="page">
+      <p className="credit">Made by Cursor Grok 4.6</p>
       <header className="mast">
         <p className="eyebrow">Indoor only · Milwaukee and nearby</p>
         <h1>Tour sheet</h1>
